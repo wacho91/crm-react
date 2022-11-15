@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan (Actualizado)",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Nueva Nota",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": "138198313",
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Manuel",
+      "empresa": "AirBnB",
+      "email": "manuel@manuel.com",
+      "telefono": "4565674535",
+      "notas": "El cliente requiere un marketplace",
+      "id": 6
+    }
+  ]
+}
